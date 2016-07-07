@@ -1,7 +1,7 @@
 midi-drum-trigger
 =================
 The home page with description is available at: 
-http://www.ise.pw.edu.pl/~wzab/MIDI/perkusja/index.html
+http://wzab.cba.pl/STARE/MIDI/perkusja/index.html
 
 The project is based on the V-USB-MIDI project:
 http://cryptomys.de/horo/V-USB-MIDI/index.html
